@@ -1,1 +1,0 @@
-# AOT-GAN-for-INPAINTING
